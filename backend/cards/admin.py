@@ -1,3 +1,5 @@
 from django.contrib import admin
+from .models import PhotoCard, PhotoCardImage
 
-# Register your models here.
+admin.site.register(PhotoCard)
+admin.site.register(PhotoCardImage)

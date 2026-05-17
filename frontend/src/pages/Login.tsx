@@ -44,7 +44,7 @@ export default function Login() {
             </button>
             <Link
               to="/register"
-              className="border border-darling-pink text-darling-brown-200 px-6 py-2 rounded-full text-sm font-medium hover:opacity-90 transition"
+              className="border bg-white border-darling-pink text-darling-brown-200 px-6 py-2 rounded-full text-sm font-medium hover:opacity-90 transition"
             >
               Create an Account
             </Link>
